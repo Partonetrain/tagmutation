@@ -14,7 +14,7 @@ import net.minecraftforge.eventbus.api.SubscribeEvent;
 @Mod.EventBusSubscriber(modid = "tagmutation", bus = Mod.EventBusSubscriber.Bus.MOD)
 public class RegisterBlock {
 
-    public static Block.Properties CONVERTER_PROPERTIES = Block.Properties.create(Material.GLASS).doesNotBlockMovement().hardnessAndResistance(1.5F, 6.0F).lightValue(0).sound(SoundType.STONE);
+    public static Block.Properties CONVERTER_PROPERTIES = Block.Properties.create(Material.GLASS).hardnessAndResistance(1.5F, 6.0F).lightValue(0).sound(SoundType.STONE);
     public static Block CONVERTER_BLOCK = new ConverterBlock(CONVERTER_PROPERTIES).setRegistryName("converter");
 
     @SubscribeEvent
