@@ -1,0 +1,12 @@
+modLoader="javafml" #mandatory
+loaderVersion="[25,)"
+#issueTrackerURL="" #optional
+#displayURL="" #optional
+credits="MMD Discord" #optional
+authors="Partonetrain" #optional
+
+[[mods]]
+modId="tagmutation"
+version="0.0.1"
+displayName="Tagmutation"
+description='''Tagmutation lets you convert between items with similar tags'''
