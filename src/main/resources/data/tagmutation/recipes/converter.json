@@ -1,0 +1,27 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "sss",
+    "gdi",
+    "sss"
+  ],
+  "key": {
+    "s": {
+      "item": "minecraft:smooth_stone"
+    },
+    "g": {
+      "tag": "forge:ingots/gold"
+    },
+    "d": {
+      "tag": "forge:gems/diamond"
+    },
+    "i": {
+      "item": "forge:ingots/iron"
+    }
+  },
+  "result": {
+    "item": "tagmutation:converter",
+    "count": 1
+
+  }
+}

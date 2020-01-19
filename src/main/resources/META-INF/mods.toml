@@ -2,7 +2,7 @@ modLoader="javafml" #mandatory
 loaderVersion="[25,)"
 #issueTrackerURL="" #optional
 #displayURL="" #optional
-credits="MMD Discord" #optional
+credits="MMD Discord, Cadiboo tutorials" #optional
 authors="Partonetrain" #optional
 
 [[mods]]

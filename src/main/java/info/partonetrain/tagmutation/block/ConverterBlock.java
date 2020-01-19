@@ -1,4 +1,4 @@
-package info.partonetrain.tagmutation.common.block;
+package info.partonetrain.tagmutation.block;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.BlockState;
